@@ -26,4 +26,4 @@ player ={
 }
 
 #print barcelona 
-print(player["teams"][1 ])
+print(player["teams"][1])
