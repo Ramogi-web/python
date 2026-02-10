@@ -1,5 +1,5 @@
 # Loops -> sometimes we may need to aply a piece of work a number of repeated times in such a case we may use a loops
-#a loop
+#a loop is a control structure that allows us to execute a block 
 
 #Below is a syntax of a for loop:
 """
