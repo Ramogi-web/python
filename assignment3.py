@@ -21,7 +21,7 @@ while number>=1:
     number =number - 1
 print("====================================")
 
-# python functions with parameter-> se parameters as placeholders in their definition to receive input values
+# python functions with parameter-> use parameters as placeholders in their definition to receive input values
 # Types of Parameters
     # Positional Parameters- Arguments must be passed in the same order they are defined in the function. Arguments must be passed in the same order they are defined in the function.
 
