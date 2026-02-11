@@ -39,14 +39,17 @@ print("==========================")
 #• Negative 
 #• Zero
 
-number=int(input("Enter number:"))
+def check_number():
+    number=int(input("Enter number:"))
 
-if number >0:
-    print("positive")
-elif number <0:
-    print("negative")
-else :
-   print("zero")
+    if number >0:
+        print("positive")
+    elif number <0:
+        print("negative")
+    else :
+        print("zero")
+
+check_number()
 
 print("==========================")
 

@@ -18,6 +18,8 @@ message("Stephen")
 print("==================================")
 #create a function that accepts parameters to add two numbers
  
-def add(x,y):
-    sum= x + y
-print(f"sum",sum)
+def add(a, b):
+    print(a + b)
+
+# To run it:
+add(5, 3)

@@ -7,3 +7,9 @@ def si(p,r,t):
     print(f"si",si)
 
 si(12000, 7, 2)
+
+# Each list is [Principal, Rate, Time]
+other_rounds = [[1000, 5, 2], [5000, 10, 3]]
+
+for data in other_rounds:
+    si(data[0], data[1], data[2])
